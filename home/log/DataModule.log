@@ -1,0 +1,11 @@
+[2023-06-19/23:15:34.268][04AB1000][ERR ][  7][SessionManager: 513]:JobError TDXSession=0x7fe0be00e400;Client=0x7fe0bda57430;pIJob=0x7fe0bd300478;ObjClsName=CTAJob_OpenEx,ErrType=7,ErrCode=10009,ErrInfo=网络故障,查找最快主站失败(NIL)
+[2023-06-19/23:15:54.375][04AB1000][ERR ][  7][SessionManager: 513]:JobError TDXSession=0x7fe0be00e400;Client=0x7fe0bda57430;pIJob=0x7fe0bd300cf8;ObjClsName=CTAJob_OpenEx,ErrType=7,ErrCode=10001,ErrInfo=作业已超时
+[2023-06-19/23:15:59.801][04AB1000][ERR ][  7][SessionManager: 513]:JobError TDXSession=0x7fe0be00e400;Client=0x7fe0bda57430;pIJob=0x7fe0bd301578;ObjClsName=CTAJob_OpenEx,ErrType=7,ErrCode=10009,ErrInfo=网络故障,查找最快主站失败(NIL)
+[2023-06-19/23:16:04.871][04AB1000][ERR ][  7][SessionManager: 513]:JobError TDXSession=0x7fe0be00e400;Client=0x7fe0bda57430;pIJob=0x7fe0bd301df8;ObjClsName=CTAJob_OpenEx,ErrType=7,ErrCode=10009,ErrInfo=网络故障,查找最快主站失败(NIL)
+[2023-06-19/23:16:09.976][04A2E000][ERR ][  2][SessionManager: 513]:JobError TDXSession=0x7fe0bd8cee00;Client=0x7fe0bda57768;pIJob=0x7fe0bd95ae78;ObjClsName=CTAJob_Closed,ErrType=2,ErrCode=6,ErrInfo=通讯错误或者客户机错误(2:6)。
+[2023-06-19/23:16:09.976][04A2E000][ERR ][  0][SessionManager:1468]:[Connect]连接服务器失败 E_DisCon Client=0x7fe0bda57768 ClusterID=300;初始过程断开
+[2023-06-22/15:25:05.293][0CA41000][ERR ][  2][SessionManager: 513]:JobError TDXSession=0x0;Client=0x7fc0960d1230;pIJob=0x7fc0949fea78;ObjClsName=CTAJob_Redirect,ErrType=2,ErrCode=6,ErrInfo=通讯错误或者客户机错误(2:6)。
+[2023-06-22/15:25:05.293][0CA41000][ERR ][  2][SessionManager: 513]:JobError TDXSession=0x0;Client=0x7fc0960d1230;pIJob=0x7fc0949fefb0;ObjClsName=CTAJob_Redirect,ErrType=2,ErrCode=6,ErrInfo=通讯错误或者客户机错误(2:6)。
+[2023-06-22/15:25:05.293][0CA41000][ERR ][  2][SessionManager: 513]:JobError TDXSession=0x0;Client=0x7fc0960d1230;pIJob=0x7fc0949c7678;ObjClsName=CTAJob_Closed,ErrType=2,ErrCode=6,ErrInfo=通讯错误或者客户机错误(2:6)。
+[2023-06-22/15:25:08.294][0C9BE000][ERR ][  2][SessionManager: 513]:JobError TDXSession=0x7fc096079400;Client=0x7fc0960d1568;pIJob=0x7fc0949c7b88;ObjClsName=CTAJob_Closed,ErrType=2,ErrCode=6,ErrInfo=通讯错误或者客户机错误(2:6)。
+[2023-06-22/15:25:08.294][0C9BE000][ERR ][  0][SessionManager:1468]:[Connect]连接服务器失败 E_DisCon Client=0x7fc0960d1568 ClusterID=300;初始过程断开
